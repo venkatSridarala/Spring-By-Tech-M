@@ -1,9 +1,0 @@
-com\example\Ekartstore\EkartstoreApplication.class
-com\example\Ekartstore\Entities\ItemInfo.class
-com\example\Ekartstore\ServletInitializer.class
-com\example\Ekartstore\Entities\ItemURL.class
-com\example\Ekartstore\Entities\Order.class
-com\example\Ekartstore\Entities\OrderedProduct.class
-com\example\Ekartstore\Entities\AddressInfo.class
-com\example\Ekartstore\Entities\Customer.class
-com\example\Ekartstore\Controller\LoginController.class
